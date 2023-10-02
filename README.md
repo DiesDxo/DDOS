@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 Dandier DDoS Panel 🚀
+# 🚀DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -60,11 +60,6 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-# Credits
-```sh
-dandier (Owner Of This Tools.-.)
-```
-
 # Appearance
 <img  src="https://github.com/dandiers/ddospanel/assets/61583533/dd7db5a0-320c-4759-8d92-d75dd3fd9ce6"></img>
 
@@ -79,10 +74,4 @@ dandier (Owner Of This Tools.-.)
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
-```
-
-# CONTACT:
-```sh
-Telegram: @mrd4nd
-Discord: dandier#1121
 ```
