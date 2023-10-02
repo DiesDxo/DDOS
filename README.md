@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀DDoS Panel 🚀
+# 🚀DDoS🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -54,8 +54,8 @@ npm i https-proxy-agent
 npm i cloudflare-bypasser
 npm i http http2 crypto tls
 npm i net
-git clone https://github.com/dandiers/DdosPanel.git
-cd DdosPanel
+git clone https://github.com/dandiers/DDOS.git
+cd DDOS
 pip install -r requirements.txt
 python3 main.py
 ```
