@@ -60,10 +60,6 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-# Appearance
-<img  src="https://github.com/dandiers/ddospanel/assets/61583533/dd7db5a0-320c-4759-8d92-d75dd3fd9ce6"></img>
-
-
 # Power
 <img src="https://github.com/dandiers/ddospanel/assets/61583533/09e36550-8f83-44bd-ab4f-345bd8236d93"></img>
 
