@@ -51,7 +51,7 @@ npm i https-proxy-agent
 npm i cloudflare-bypasser
 npm i http http2 crypto tls
 npm i net
-git clone https://github.com/dandiers/DDOS.git
+git clone https://github.com/DiesDxo/DDOS.git
 cd DDOS
 pip install -r requirements.txt
 python3 main.py
