@@ -16,7 +16,7 @@ from node_modules.colors.themes import string
 
 #JANGAN DI UBAH DEK! #
 #JANGAN DI UBAH DEK! #
-author = "dandier"
+author = "DiesDxo"
 #JANGAN DI UBAH EEK! #
 #JANGAN DI UBAH DEK! #
 
@@ -59,7 +59,7 @@ def main():
 	░       ░                       
 """
     author = r"""
-		Ddos Panel By Dandier
+		Ddos Panel By DiesDxo
     """
     prints(start_color, end_color, banner)
     prints(end_color, start_color, author)
@@ -118,7 +118,7 @@ def main():
             except IndexError:
                 pass
                 
-if author == "dandier":
+if author == "DiesDxo":
     main()
 else:
     string.authorsalah()
